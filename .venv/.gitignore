@@ -1,0 +1,22 @@
+# Папки IDE
+.idea/
+
+# Виртуальные окружения
+venv/
+env/
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+
+# SQLite базы данных
+*.sqlite
+*.sqlite3
+*.db
+
+
+*.log
+
+
+.env
